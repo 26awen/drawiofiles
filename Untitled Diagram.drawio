@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T15:23:48.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="XZR-_TkGIpgu3wy0fMxR" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-10T15:25:22.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="S7tj08BfEb_VD-spHTTE" version="18.0.2" type="github">
   <diagram id="gnSNkafbzCCIT5434b_1" name="Page-1">
-    <mxGraphModel dx="677" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="676" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,6 +67,12 @@
         </mxCell>
         <mxCell id="PJJ-QlD6DoD8dWd1bA27-4" value="建安费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="179" y="317" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PJJ-QlD6DoD8dWd1bA27-6" value="概算一" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PJJ-QlD6DoD8dWd1bA27-7" value="概算二" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
