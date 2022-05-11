@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T15:44:50.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="vg4l_sM7LDb0Ae2t3Z-l" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T02:39:23.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="rRJU1O2QFgbHTn_7xl70" version="18.0.2" type="github">
   <diagram id="gnSNkafbzCCIT5434b_1" name="Page-1">
-    <mxGraphModel dx="676" dy="2767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="644" dy="2747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,8 +111,8 @@
         <mxCell id="PJJ-QlD6DoD8dWd1bA27-16" value="建安费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJJ-QlD6DoD8dWd1bA27-27" value="&lt;ol&gt;&lt;li&gt;2各概算内容与2各预算内容不是正好对应的&lt;/li&gt;&lt;li&gt;地坪做法预算与概算不同，且预算金额高50万&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=16;fontColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry y="-280" width="190" height="160" as="geometry" />
+        <mxCell id="PJJ-QlD6DoD8dWd1bA27-27" value="&lt;ol&gt;&lt;li&gt;2各概算内容与2各预算内容不是正好对应的&lt;/li&gt;&lt;li&gt;地坪做法预算与概算不同，且预算金额高50万&lt;/li&gt;&lt;li&gt;概算中没有标杆&lt;/li&gt;&lt;li&gt;概算中没有前期拆除&lt;/li&gt;&lt;li&gt;停车场测绘不要放在建安费中&lt;/li&gt;&lt;li&gt;摄像超监控较多&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=16;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry y="-280" width="200" height="230" as="geometry" />
         </mxCell>
         <mxCell id="PJJ-QlD6DoD8dWd1bA27-28" value="原有围墙" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="479" y="-340" width="120" height="60" as="geometry" />
@@ -122,9 +122,6 @@
         </mxCell>
         <mxCell id="PJJ-QlD6DoD8dWd1bA27-33" value="新建围墙照壁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="479" y="-440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PJJ-QlD6DoD8dWd1bA27-36" value="新建围墙照壁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="-440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PJJ-QlD6DoD8dWd1bA27-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#FF6666;startArrow=none;startFill=0;sourcePerimeterSpacing=2;targetPerimeterSpacing=2;strokeColor=#FFB570;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="PJJ-QlD6DoD8dWd1bA27-40" source="PJJ-QlD6DoD8dWd1bA27-6">
           <mxGeometry relative="1" as="geometry">
@@ -196,14 +193,41 @@
         <mxCell id="PJJ-QlD6DoD8dWd1bA27-49" value="建筑：隔离网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="479" y="-960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJJ-QlD6DoD8dWd1bA27-56" value="安装：岗亭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PJJ-QlD6DoD8dWd1bA27-56" value="安装：岗亭" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="479" y="-880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJJ-QlD6DoD8dWd1bA27-57" value="安装：电气" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PJJ-QlD6DoD8dWd1bA27-57" value="安装：电气" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="479" y="-790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJJ-QlD6DoD8dWd1bA27-58" value="安装：" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PJJ-QlD6DoD8dWd1bA27-58" value="安装：摄像" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="479" y="-700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PJJ-QlD6DoD8dWd1bA27-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#FF6666;startArrow=none;startFill=0;sourcePerimeterSpacing=2;targetPerimeterSpacing=2;strokeColor=#FFB570;strokeWidth=4;" edge="1" parent="1" source="PJJ-QlD6DoD8dWd1bA27-62" target="PJJ-QlD6DoD8dWd1bA27-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PJJ-QlD6DoD8dWd1bA27-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontColor=#FF6666;startArrow=none;startFill=0;sourcePerimeterSpacing=2;targetPerimeterSpacing=2;strokeColor=#FFB570;strokeWidth=4;" edge="1" parent="1" source="PJJ-QlD6DoD8dWd1bA27-62" target="PJJ-QlD6DoD8dWd1bA27-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PJJ-QlD6DoD8dWd1bA27-62" value="预算一" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PJJ-QlD6DoD8dWd1bA27-63" value="停车场路面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PJJ-QlD6DoD8dWd1bA27-66" value="排水" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PJJ-QlD6DoD8dWd1bA27-69" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;fontColor=#FF6666;sourcePerimeterSpacing=2;targetPerimeterSpacing=2;strokeColor=#66FF66;strokeWidth=4;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PJJ-QlD6DoD8dWd1bA27-66" target="PJJ-QlD6DoD8dWd1bA27-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="-1080" as="sourcePoint" />
+            <mxPoint x="680" y="-1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PJJ-QlD6DoD8dWd1bA27-70" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;fontColor=#FF6666;sourcePerimeterSpacing=2;targetPerimeterSpacing=2;strokeColor=#66FF66;strokeWidth=4;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="PJJ-QlD6DoD8dWd1bA27-63" target="PJJ-QlD6DoD8dWd1bA27-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="851" y="-1110" as="sourcePoint" />
+            <mxPoint x="820" y="-255" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
