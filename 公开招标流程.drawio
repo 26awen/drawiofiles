@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T02:51:50.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="wRoRTcMFPjhb1oamvPHD" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T02:54:48.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="1rbYgoMlJsRS9IaiI56e" version="22.1.8" type="github">
   <diagram name="第 1 页" id="9VEeLwtgq9xPFcdnr5dx">
     <mxGraphModel dx="854" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="NR2siYvtesKDERceZomX-15" value="市&lt;br&gt;场&lt;br&gt;部" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="270" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NR2siYvtesKDERceZomX-16" value="总&lt;br&gt;师&lt;br&gt;室" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;rotation=90;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="NR2siYvtesKDERceZomX-16" value="总&lt;br&gt;师&lt;br&gt;室" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;rotation=90;horizontal=0;gradientColor=#CCE5FF;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="330" y="270" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NR2siYvtesKDERceZomX-18" value="专家顾问团" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="1">
