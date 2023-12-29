@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T07:05:29.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ZddE_ss8wcuJGVUjcac8" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-29T07:06:11.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="geZqiXnE5Ors2SzaiTyx" version="22.1.15" type="github">
   <diagram name="第 1 页" id="IvqLFZZhcrXwCMEsDjBW">
     <mxGraphModel dx="2074" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -10,52 +10,52 @@
         <mxCell id="R8VD1IcNc_u99sHQXmGt-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="130" y="368" width="1600" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="R8VD1IcNc_u99sHQXmGt-1" value="需求对接、招标文件编制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillStyle=zigzag-line;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="R8VD1IcNc_u99sHQXmGt-1" value="需求对接、招标文件编制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillStyle=zigzag-line;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="160" y="394" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R8VD1IcNc_u99sHQXmGt-2" value="发售招标文件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillStyle=zigzag-line;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="R8VD1IcNc_u99sHQXmGt-2" value="发售招标文件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillStyle=zigzag-line;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="400" y="394" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R8VD1IcNc_u99sHQXmGt-3" value="开、评标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillStyle=zigzag-line;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="R8VD1IcNc_u99sHQXmGt-3" value="开、评标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillStyle=zigzag-line;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="660" y="394" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R8VD1IcNc_u99sHQXmGt-4" value="结果公示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillStyle=zigzag-line;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="R8VD1IcNc_u99sHQXmGt-4" value="结果公示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillStyle=zigzag-line;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="930" y="394" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R8VD1IcNc_u99sHQXmGt-5" value="发放中标通知书" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=zigzag-line;gradientColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="R8VD1IcNc_u99sHQXmGt-5" value="发放中标通知书" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=zigzag-line;gradientColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="1200" y="394" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R8VD1IcNc_u99sHQXmGt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="R8VD1IcNc_u99sHQXmGt-6" target="R8VD1IcNc_u99sHQXmGt-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R8VD1IcNc_u99sHQXmGt-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;工作要求：&lt;/span&gt;&lt;/div&gt;1、与业主充分沟通，了解清楚采购需求，包括：采购内容、采购清单、质量要求、进度要求、拟签订的合同条款等。&lt;br&gt;2、根据项目特征选择核实的采购方式、平台及招标文件模板。&lt;br&gt;3、招标文件需经公司审核流程后方可发出。&lt;br&gt;4、技术问题需经总师室、专家顾问团研究确定。" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;gradientDirection=east;gradientColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="R8VD1IcNc_u99sHQXmGt-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;工作要求：&lt;/span&gt;&lt;/div&gt;1、与业主充分沟通，了解清楚采购需求，包括：采购内容、采购清单、质量要求、进度要求、拟签订的合同条款等。&lt;br&gt;2、根据项目特征选择核实的采购方式、平台及招标文件模板。&lt;br&gt;3、招标文件需经公司审核流程后方可发出。&lt;br&gt;4、技术问题需经总师室、专家顾问团研究确定。" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;gradientDirection=east;gradientColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="160" y="78" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="R8VD1IcNc_u99sHQXmGt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="R8VD1IcNc_u99sHQXmGt-9" target="R8VD1IcNc_u99sHQXmGt-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R8VD1IcNc_u99sHQXmGt-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;工作要求：&lt;/span&gt;&lt;/div&gt;1、按照招标文件及公告规定的要求审核资格文件。&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;2、通过企查查等企业信息查询网站，查询供应商的控股情况及企业信誉&lt;/font&gt;&lt;br&gt;2、按规定的时间节点及程序发售招标文件。&lt;br&gt;3、做好有关签收手续。&lt;br&gt;4、资料存档以备后续归档。" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;gradientDirection=east;gradientColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="R8VD1IcNc_u99sHQXmGt-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;工作要求：&lt;/span&gt;&lt;/div&gt;1、按照招标文件及公告规定的要求审核资格文件。&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;2、通过企查查等企业信息查询网站，查询供应商的控股情况及企业信誉&lt;/font&gt;&lt;br&gt;2、按规定的时间节点及程序发售招标文件。&lt;br&gt;3、做好有关签收手续。&lt;br&gt;4、资料存档以备后续归档。" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;gradientDirection=east;gradientColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="400" y="78" width="220" height="210" as="geometry" />
         </mxCell>
         <mxCell id="R8VD1IcNc_u99sHQXmGt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="R8VD1IcNc_u99sHQXmGt-10" target="R8VD1IcNc_u99sHQXmGt-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R8VD1IcNc_u99sHQXmGt-10" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;工作要求：&lt;/span&gt;&lt;/div&gt;1、按照招标文件的规定的时间节点及要求进行开标（审核授权委托人资格、表述密封性等）。&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;2、评标前做好回标分析工作，利用“标书查重软件”检查串围标情况。&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;3、通过专家库管理软件抽取符合专业的专家。&lt;/font&gt;&lt;br&gt;4、组织完成评标。&lt;br&gt;5、检查评标资料完整，专家签字无遗漏，结果无异议。资料整理存档以备归档。&lt;br&gt;6、开、评标过程需做好全程录像" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;gradientDirection=east;gradientColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="R8VD1IcNc_u99sHQXmGt-10" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;工作要求：&lt;/span&gt;&lt;/div&gt;1、按照招标文件的规定的时间节点及要求进行开标（审核授权委托人资格、表述密封性等）。&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;2、评标前做好回标分析工作，利用“标书查重软件”检查串围标情况。&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;3、通过专家库管理软件抽取符合专业的专家。&lt;/font&gt;&lt;br&gt;4、组织完成评标。&lt;br&gt;5、检查评标资料完整，专家签字无遗漏，结果无异议。资料整理存档以备归档。&lt;br&gt;6、开、评标过程需做好全程录像" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;gradientDirection=east;gradientColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="660" y="78" width="220" height="210" as="geometry" />
         </mxCell>
         <mxCell id="R8VD1IcNc_u99sHQXmGt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="R8VD1IcNc_u99sHQXmGt-11" target="R8VD1IcNc_u99sHQXmGt-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R8VD1IcNc_u99sHQXmGt-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;工作要求：&lt;/span&gt;&lt;/div&gt;1、公式前通知业主评标情况。&lt;br&gt;2、在招标文件或法律规定的媒体发布有关结果公示。&lt;br&gt;3、处理质疑&lt;br&gt;4、关注公示结束时间。" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;gradientDirection=east;gradientColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="R8VD1IcNc_u99sHQXmGt-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;工作要求：&lt;/span&gt;&lt;/div&gt;1、公式前通知业主评标情况。&lt;br&gt;2、在招标文件或法律规定的媒体发布有关结果公示。&lt;br&gt;3、处理质疑&lt;br&gt;4、关注公示结束时间。" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;gradientDirection=east;gradientColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="930" y="78" width="220" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="R8VD1IcNc_u99sHQXmGt-12" value="资料归档" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillStyle=zigzag-line;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="R8VD1IcNc_u99sHQXmGt-12" value="资料归档" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillStyle=zigzag-line;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="1480" y="394" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R8VD1IcNc_u99sHQXmGt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="R8VD1IcNc_u99sHQXmGt-13" target="R8VD1IcNc_u99sHQXmGt-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R8VD1IcNc_u99sHQXmGt-13" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;工作要求：&lt;/span&gt;&lt;/div&gt;1、根据评审结论编写中标通知书、中标结果通知书。&lt;br&gt;2、及时发放给供应商及业主。&lt;br&gt;3、协助业主签订合同。" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;gradientDirection=east;gradientColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="R8VD1IcNc_u99sHQXmGt-13" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;工作要求：&lt;/span&gt;&lt;/div&gt;1、根据评审结论编写中标通知书、中标结果通知书。&lt;br&gt;2、及时发放给供应商及业主。&lt;br&gt;3、协助业主签订合同。" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;gradientDirection=east;gradientColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="1200" y="78" width="220" height="210" as="geometry" />
         </mxCell>
         <mxCell id="R8VD1IcNc_u99sHQXmGt-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="R8VD1IcNc_u99sHQXmGt-14" target="R8VD1IcNc_u99sHQXmGt-30">
@@ -67,7 +67,7 @@
         <mxCell id="R8VD1IcNc_u99sHQXmGt-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="R8VD1IcNc_u99sHQXmGt-15" target="R8VD1IcNc_u99sHQXmGt-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R8VD1IcNc_u99sHQXmGt-15" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;工作要求：&lt;/span&gt;&lt;/div&gt;1、根据《项目资料归档清单》对招标资料整理成册。&lt;br&gt;2、完成公司档案资料审查流程。&lt;br&gt;3、资料递送业主及存入公司档案室。&lt;br&gt;4、做好相关签收工作。" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;gradientDirection=east;gradientColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="R8VD1IcNc_u99sHQXmGt-15" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;工作要求：&lt;/span&gt;&lt;/div&gt;1、根据《项目资料归档清单》对招标资料整理成册。&lt;br&gt;2、完成公司档案资料审查流程。&lt;br&gt;3、资料递送业主及存入公司档案室。&lt;br&gt;4、做好相关签收工作。" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;gradientDirection=east;gradientColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="1480" y="78" width="220" height="210" as="geometry" />
         </mxCell>
         <mxCell id="R8VD1IcNc_u99sHQXmGt-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;gradientColor=#CCE5FF;" vertex="1" parent="1">
@@ -82,7 +82,7 @@
         <mxCell id="R8VD1IcNc_u99sHQXmGt-20" value="标书查重软件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;fontSize=22;gradientColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="660" y="699" width="220" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="R8VD1IcNc_u99sHQXmGt-28" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;业务OSA管理系统&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;gradientColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="R8VD1IcNc_u99sHQXmGt-28" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;业务OA管理系统&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;gradientColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="930" y="569" width="730" height="240" as="geometry" />
         </mxCell>
         <mxCell id="R8VD1IcNc_u99sHQXmGt-29" value="业务工具系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=47;gradientColor=none;fillStyle=solid;opacity=0;fontColor=#000000;" vertex="1" parent="1">
